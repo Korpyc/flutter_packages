@@ -1,0 +1,23 @@
+name: scharts_flutter_charts
+description: A Flutter Charts library which includes data visualization widgets such as cartesian and circular charts, to create real-time, interactive, high-performance, animated charts.
+version: 20.2.49
+
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.17.0
+  vector_math: ">=2.1.0 <=3.0.0"
+  scharts_flutter_core:
+    git:
+      url: https://github.com/Korpyc/flutter_packages.git
+      path: packages/scharts_flutter_core/
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
