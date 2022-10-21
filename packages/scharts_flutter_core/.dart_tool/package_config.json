@@ -134,13 +134,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "syncfusion_flutter_core",
+      "name": "scharts_flutter_core",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-09-20T07:50:43.108540Z",
+  "generated": "2022-10-21T19:34:47.508557Z",
   "generator": "pub",
-  "generatorVersion": "2.18.1"
+  "generatorVersion": "2.18.2"
 }

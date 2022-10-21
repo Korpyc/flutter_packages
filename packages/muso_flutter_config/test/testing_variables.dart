@@ -1,4 +1,4 @@
-import 'package:flutter_config/flutter_config.dart';
+import 'package:muso_flutter_config/flutter_config.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

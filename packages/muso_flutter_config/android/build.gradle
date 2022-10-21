@@ -1,4 +1,4 @@
-group 'com.byneapp.flutter_config'
+group 'com.muso_flutter_config'
 version '1.0-SNAPSHOT'
 
 buildscript {

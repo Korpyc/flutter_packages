@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_config/flutter_config.dart';
+import 'package:muso_flutter_config/flutter_config.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('flutter_config');

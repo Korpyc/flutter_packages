@@ -1,4 +1,4 @@
-package com.byneapp.flutter_config
+package com.muso_flutter_config
 
 import android.app.Activity
 import android.content.Context
