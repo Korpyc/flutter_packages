@@ -4,7 +4,7 @@
 @implementation FlutterConfigPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
   FlutterMethodChannel* channel = [FlutterMethodChannel
-      methodChannelWithName:@"flutter_config"
+      methodChannelWithName:@"muso_flutter_config"
             binaryMessenger:[registrar messenger]];
   FlutterConfigPlugin* instance = [[FlutterConfigPlugin alloc] init];
   [registrar addMethodCallDelegate:instance channel:channel];
